@@ -1,0 +1,2 @@
+Your battery is below 10 percentage.
+please plugin your charger.
